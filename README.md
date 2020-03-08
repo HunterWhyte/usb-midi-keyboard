@@ -28,7 +28,7 @@ Since this was a weekend project I used an arduino mega as the microcontroller f
 
 ![](piano.jpg)
 
-### Fits perfectly in my bedroom studio
+### Fits perfectly in my bedroom
 
 ![](deskpic.jpg)
 
