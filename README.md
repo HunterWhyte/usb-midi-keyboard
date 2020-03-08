@@ -31,3 +31,5 @@ Since this was a weekend project I used an arduino mega as the microcontroller f
 ### Fits perfectly in my bedroom studio
 
 ![](deskpic.jpg)
+
+#### demo video soon
