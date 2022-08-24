@@ -1,5 +1,4 @@
 # usb-midi-keyboard
-## USB MIDI Keyboard Made From Broken Electric Piano
 
 ### Broken Technics Electric Piano $20 off Kijiji
 
@@ -20,16 +19,6 @@ There are 88 keys on this keyboard each key has 2 switches for a total of 176 in
 
 ### Arduino Mega 
 
-Since this was a weekend project I used an arduino mega as the microcontroller for this. Eventually I want to switch it out to use something less overkill. There is also a great project that provides firmware you can flash to your arduino to allow Native USB-MIDI called HIDUINO. 
+Since this was a weekend project I used an arduino mega as the microcontroller for this. Eventually I want to switch it out to use something less overkill. There is also a great project that provides firmware you can flash to your arduino to allow Native USB-MIDI called HIDUINO.
 
 ![](arduinopic.jpg)
-
-### Finished piano (much smaller!)
-
-![](piano.jpg)
-
-### Fits perfectly in my bedroom
-
-![](deskpic.jpg)
-
-#### demo video soon
